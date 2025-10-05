@@ -1,6 +1,6 @@
 {
-  "name": "HA Add-ons by alexbelgium, edited by PowerBlade"
+  "name": "HA Add-ons by alexbelgium, edited by PowerBlade",
   "udev": true,
-  "url": "https://github.com/alexbelgium/hassio-addons",
+  "url": "https://github.com/PowerBlade/hassio-addons-pb-1",
   "maintainer": "alexbelgium"
 }
