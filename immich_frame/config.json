@@ -21,7 +21,9 @@
   "schema": {
     "ApiKey": "str",
     "ImmichServerUrl": "str",
-    "TZ": "str?"
+    "TZ": "str?",
+    "Albums": "str?"
+
   },
   "slug": "immich_frame",
   "url": "https://github.com/alexbelgium/hassio-addons",
